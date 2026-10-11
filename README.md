@@ -6,6 +6,15 @@ Built with SQL, Python, Excel and Power BI.
 
 ![Dashboard](dashboard.png)
 
+**Table of Contents:** 
+· [What I found](#what-i-found) 
+· [How much is it worth?](#how-much-is-it-worth) 
+· [If this were a real company](#if-this-were-a-real-company-what-id-recommend) 
+· [How I did it](#how-i-did-it) 
+· [About the data](#about-the-data) 
+· [SQL](#sql-data-checks-and-route-pricing) 
+· [Limits](#limits) · [Files](#files)
+
 ## What I found
 
 - **The price gaps come from the rate card, not from discounting.** On every route, the price billed per mile matches the list price almost exactly (the largest gap is under 2 cents).
