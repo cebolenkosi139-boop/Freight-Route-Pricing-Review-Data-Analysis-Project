@@ -94,17 +94,3 @@ Because every check came back clean, I changed nothing: no rows were deleted and
 | `route_pricing_whatif.xlsx` | Excel what-if with three scenarios |
 | `route_pricing_dashboard.pbix` | Power BI dashboard (needs Power BI Desktop to open) |
 | `dashboard.png` | Screenshot of the dashboard |
-- **Even years assumed.** I divided the 3-year total by 3 without checking that each year had similar volume.
-
-## Files
-
-| File | What it is |
-|---|---|
-| `route_pricing_queries.sql` | Data checks and the route pricing query |
-| `route_pricing.csv` | Output of the pricing query: one row per route |
-| `route_pricing.ipynb` | Python analysis |
-| `flagged_routes.csv` | The 15 routes below the fair price, with extra revenue |
-| `price_per_mile_by_route.png` | Chart of price per mile by route |
-| `route_pricing_whatif.xlsx` | Excel what-if with three scenarios |
-| `route_pricing_dashboard.pbix` | Power BI dashboard (needs Power BI Desktop to open) |
-| `dashboard.png` | Screenshot of the dashboard |
