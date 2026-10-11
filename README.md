@@ -6,14 +6,16 @@ Built with SQL, Python, Excel and Power BI.
 
 ![Dashboard](dashboard.png)
 
-**Table of Contents:** 
-· [What I found](#what-i-found) 
-· [How much is it worth?](#how-much-is-it-worth) 
-· [If this were a real company](#if-this-were-a-real-company-what-id-recommend) 
-· [How I did it](#how-i-did-it) 
-· [About the data](#about-the-data) 
-· [SQL](#sql-data-checks-and-route-pricing) 
-· [Limits](#limits) · [Files](#files)
+**Contents**
+
+- [What I found](#what-i-found)
+- [How much is it worth?](#how-much-is-it-worth)
+- [If this were a real company](#if-this-were-a-real-company-what-id-recommend)
+- [How I did it](#how-i-did-it)
+- [About the data](#about-the-data)
+- [SQL: data checks and route pricing](#sql-data-checks-and-route-pricing)
+- [Limits](#limits)
+- [Files](#files)
 
 ## What I found
 
