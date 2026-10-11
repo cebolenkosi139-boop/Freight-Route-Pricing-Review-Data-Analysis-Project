@@ -10,7 +10,7 @@ Built with SQL, Python, Excel and Power BI.
 
 - [What I found](#what-i-found)
 - [How much is it worth?](#how-much-is-it-worth)
-- [If this were a real company](#if-this-were-a-real-company-what-id-recommend)
+- [If this were a real company here is what I would recommend](#if-this-were-a-real-company-what-id-recommend)
 - [How I did it](#how-i-did-it)
 - [About the data](#about-the-data)
 - [SQL: data checks and route pricing](#sql-data-checks-and-route-pricing)
